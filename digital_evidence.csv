@@ -1,0 +1,76 @@
+id,person_id,device_type,content_type,content,timestamp,location_coordinates
+1,10,Laptop,Email,"From: m.davidson@cryptosphere.com 
+Subject: Final Merger Documents 
+Date: June 15, 2023 14:22
+Body: Elijah, I've uploaded the final documents to the secure server. We should go through them tonight before tomorrow's announcement. The valuation adjustment we discussed has been included in section 12.4. Don't forget about our contingency plan. - Maya",1686844920,"37.7749,-122.4194"
+2,10,Mobile Phone,Text Message,"To: Sarah Chen
+Time: 19:50
+Body: Need another hour before our meeting. Unexpected issue with Project Phoenix integration. Come up around 9:45.",1686867000,"37.7749,-122.4194"
+3,10,Office Computer,Browser History,"Visited: secure.cryptosphere.com/project-phoenix/contingency
+secure.cryptosphere.com/merger-docs
+darkweb.onion/market/rare-toxins
+mail.cryptosphere.com
+news.financial-times.com/tech-acquisitions
+sudoku.com",1686864600,"37.7749,-122.4194"
+4,10,Building System,Access Log,"Office door unlocked: 19:55
+Office door locked from inside: 19:56
+Emergency override attempted: 20:35 - Failed (Invalid credentials)
+Emergency override attempted: 20:36 - Failed (Invalid credentials)
+Emergency override successful: 21:53 (Security Director Override)
+Secondary security system disabled: 20:05 (Admin credentials: vtk)",1686870780,"37.7749,-122.4194"
+5,30,Tablet,Document,"Technical assessment of Project Phoenix security vulnerabilities. Marked CONFIDENTIAL. Contains proof of backdoor access implemented by E.A. Last edited: June 15, 2023 18:42",1686859320,"37.7749,-122.4196"
+6,40,Mobile Phone,Text Message,"From: Unknown
+Time: 19:48
+Body: Remember our deal. The merger must not proceed. You know what to do.",1686867000,"37.7459,-122.4863"
+7,50,Security System,Log File,"Camera maintenance mode activated: 20:05 (Credentials: m.davidson)
+Camera system reboot initiated: 20:06
+System restoration failed: 20:35
+Manual override initiated: 20:36
+System backup activated: 21:45
+Encrypted data transfer detected: 20:15 (Destination: quantum.nexustech.com)",1686868500,"37.7749,-122.4194"
+8,80,Laptop,Remote Access Log,"Connected to CryptoSphere security server: 19:30
+Running diagnostic sequence: 19:35-20:15
+Security patch installation: 20:20-21:05
+Access to Project Phoenix repository: 20:25
+Connection terminated: 21:10
+Remote connection from: RivalTech IP detected",1686867000,"37.7362,-122.4577"
+9,10,Server,Financial Record,"Confidential memo regarding ownership stake adjustment for Viktor Radek and Dr. Zhang. Reduction from 15% to 7.5% post-merger, effective upon closing. Quantum computing patents transfer to NexusTech Research included. Approved by E. Armstrong on June 14, 2023.",1686758400,"37.7749,-122.4194"
+10,20,Mobile Phone,Calendar,"June 15, 2023
+7:00 PM - Dinner with QuantumLink investors - Grand Hotel
+9:30 PM - Encrypted call with V.R.
+10:15 PM - Delete Project Phoenix backups
+11:00 PM - Send revised proposal to team",1686844920,"37.7833,-122.4100"
+11,110,Quantum Computer,Log File,"Unauthorized quantum encryption detected: 20:15
+Project Phoenix parameters modified: 20:18
+Backdoor implementation detected: 20:22
+Critical system failure: 20:25
+Recovery initiated by: unknown_admin
+Recovery failed: authorization DIPLOMATIC_OVERRIDE",1686868500,"37.7845,-122.4237"
+12,110,Quantum Server,Research Log,Project Phoenix quantum encryption successfully tested. Breakthrough achieved in quantum tunneling effect. Critical vulnerability discovered in CryptoSphere implementation. Must inform diplomatic channels immediately.,1696357800,"37.7845,-122.4237"
+13,130,Laboratory Computer,Email,"From: unknown@diplomatic.net
+Subject: RE: Quantum Vulnerability
+Time: 19:15
+Body: Your discovery changes everything. The CryptoSphere implementation could compromise national security. Proceed with diplomatic channels as discussed in Geneva.",1696358100,"37.7847,-122.4237"
+14,140,Security Console,Alert Log,Multiple quantum signature anomalies detected. Pattern matches CryptoSphere incident from June. Possible connection to diplomatic override codes.,1696359000,"37.7845,-122.4237"
+15,150,Tablet,Message,"To: ENCRYPTED
+Time: 19:45
+Body: Asset secured. Implementation flaws documented. Initiating cleanup protocol as discussed in Geneva meeting.",1696359900,"37.7845,-122.4237"
+16,160,Diplomatic Device,Encrypted,"[CLASSIFIED DIPLOMATIC COMMUNICATION]
+RE: Project Phoenix Implications
+Quantum vulnerability confirmation received. Asset elimination authorized. Use standard diplomatic protocols.",1696360800,"46.2204,6.1396"
+17,170,Security Tablet,Access Log,Quantum lab breach detected. Multiple access points compromised. Signature matches Geneva incident.,1696361700,"46.2109,6.1361"
+18,180,Security Console,Override Log,Emergency protocols initiated. Quantum signature detected. Matches pattern from Armstrong case.,1696362600,"46.2177,6.1510"
+19,190,Intelligence Device,Report,Asset termination confirmed. Quantum research secured. Connection to CryptoSphere case established.,1696363500,"46.2133,6.1466"
+20,200,Diplomatic Server,Archive,Project Phoenix quantum vulnerability poses unprecedented risk. Connection to Armstrong assassination confirmed. Zhang elimination necessary.,1696364400,"46.2044,6.1517"
+21,170,Personal Laptop,Email,"To: k.vtk@diplomatic.secure.net
+Subject: Contingency Execution
+Date: June 15, 2023 19:18
+Body: The package received ?",1686866280,"37.7749,-122.4196"
+22,30,Personal Laptop,Email,"To: n.orlova@diplomatic.secure.net
+Subject: Contingency Execution
+Date: June 15, 2023 19:20
+Body: The package you provided has been delivered as discussed. ",1686866400,"37.7749,-122.4196"
+25,50,Backup Server,Access Log,"Emergency backup log (offline storage)
+20:03 - Override code used for 50th floor office: VTK-ADMIN
+20:07 - Override code used for 50th floor exit: VTK-ADMIN
+Note: Primary logs deleted at 20:15 using admin credentials",1686868200,"37.7749,-122.4194"

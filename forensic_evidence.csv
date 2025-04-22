@@ -1,0 +1,29 @@
+id,crime_scene_report_id,type,description,person_id,collection_date,analyzed_date,confidence_level
+1,1,Toxicology,"Multiple toxins detected: traces of tetrodotoxin in victim's coffee cup (20:15 sample), synthetic digitalis compound in water glass (19:45 sample), and rare polonium isotope residue on desk surface (source: NexusTech lab). Death window revised: between 20:15-20:45.",10,20230615,20230616,0.98
+2,1,Fingerprints,"Multiple fingerprints found: E. Rodriguez (coffee cup, 19:30), V. Radek (laptop, 19:45), M. Davidson (document cabinet, 20:10), Unknown diplomatic credentials (window ledge, time unknown), S. Zhang (quantum encryption device, 20:05) ",30,20230615,20230616,0.95
+3,1,Electronic,"Security system analysis shows multiple anomalies: credentials used simultaneously in different locations, quantum encryption signatures matching NexusTech patterns, and diplomatic-grade override attempts. System logs show maintenance mode activated using three different administrative accounts.",,20230615,20230616,0.92
+4,1,Document,"Hidden compartment in desk contained: Project Phoenix contingency plans, offshore account details (Cayman Islands), and handwritten notes about quantum technology transfer to diplomatic contacts. Notes mention 'VR', 'SD', and 'Chinese embassy' with coded timestamps.",10,20230615,20230616,0.85
+5,1,Trace,"Specialized fabric fibers found: standard-issue security uniform (M. Taylor), high-end suit fabric matching V. Radek's tailor, and diplomatic service uniform fibers (sources: Russian and Chinese embassies).traces of etrodotoxin in car SEC456",50,20230615,20230617,0.78
+6,1,Digital,"Advanced forensic analysis reveals: victim's computer accessed remotely at 20:22 (quantum encrypted connection), Project Phoenix files copied to three different locations, and emergency protocols disabled using Dr. Zhang's old credentials.",,20230615,20230617,0.90
+7,1,Biological,"Multiple DNA samples found: unknown female (lip print on coffee cup, non-employee), genetic profile matching diplomatic database (restricted access), and traces of Dr. Zhang's DNA on quantum encryption device.",,20230615,20230618,0.88
+39,1,Residue,"Microscopic residue on a suit jacket (collected from office chair) chemically matches tetrodotoxin compound found in victim's system. Source markers indicate diplomatic-grade toxin.",30,20230615,20230617,0.98
+42,1,Digital,"Deleted email recovery from Viktor Radek's personal device shows communication with Natasha Orlova",30,20230616,20230617,0.96
+8,2,Electronic,"Server room breach analysis reveals quantum-based encryption backdoor, matching patterns from both CryptoSphere's Project Phoenix and NexusTech's classified research.",50,20230610,20230611,0.94
+9,3,Digital,"Threatening message metadata shows connection to both RivalTech servers and diplomatic secure network. Language analysis indicates multiple authors with varied backgrounds.",,20230612,20230613,0.75
+10,4,Audio,"Enhanced audio reveals full conversation: 
+V.R.: 'Your security shortcuts will be the death of this company.'
+E.A.: 'The merger timeline is non-negotiable.'
+V.R.: 'I won't let you compromise everything we've built.'
+Unknown voice (feminine): 'Remember our agreement, Viktor.'",30,20230614,20230615,0.96
+20,10,Radiation,"Advanced isotope analysis shows polonium-210 from same batch as CryptoSphere incident. Quantum lab security logs indicate material transfer to diplomatic pouch two days prior.",110,20231003,20231004,0.97
+21,10,Digital,"Quantum lab access logs show simultaneous logins from multiple locations using Dr. Zhang's credentials. Pattern matches CryptoSphere incident.",110,20231003,20231004,0.89
+22,10,Fingerprints,"Partial prints match both security contractor database and diplomatic security forces. Additional prints match CryptoSphere security patterns.",,20231003,20231005,0.76
+23,10,Chemical,"Complex chemical analysis reveals sophisticated compound combining elements from both incidents: quantum-derived isotopes and diplomatic-grade toxins.",,20231003,20231004,0.94
+30,10,Quantum,"Quantum encryption signature analysis reveals complex pattern: partial match to Armstrong case, Geneva diplomatic incident, and classified defense project.",110,20231003,20231004,0.96
+31,10,Electronic,"Multiple security systems disabled using diplomatic-grade quantum override codes. Pattern matches both CryptoSphere and Geneva incidents.",110,20231003,20231004,0.92
+32,10,Chemical,"Advanced isotope analysis shows polonium-210 source matches diplomatic security stockpile. Trace quantum particle decay suggests storage in specialized containment.",110,20231003,20231004,0.97
+33,10,Document,"Encrypted quantum research notes found in hidden partition. References to Project Phoenix vulnerabilities and diplomatic implications. Multiple authentication signatures detected.",110,20231003,20231004,0.89
+34,15,Digital,"Quantum encryption analysis of Ambassador's personal devices shows connection to CryptoSphere breach and Zhang case.",160,20230807,20230808,0.94
+35,15,Chemical,"Specialized pen ink contains quantum-tagged isotopes matching NexusTech research facility.",160,20230807,20230808,0.96
+36,15,Network,"Diplomatic communications reveal quantum-encrypted channel between Geneva, CryptoSphere, and NexusTech systems.",160,20230807,20230808,0.91
+37,15,Surveillance,"Multiple security cameras show quantum-based interference patterns during key timeframes. Matches Armstrong case signature.",160,20230807,20230808,0.88

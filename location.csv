@@ -1,0 +1,37 @@
+id,name,address,city,type,latitude,longitude
+1,CryptoSphere HQ,1000 Innovation Way,SQL City,Office Building,37.7749,-122.4194
+2,Elijah Armstrong Residence,200 Hillside Manor,SQL City,Residence,37.7833,-122.4167
+3,CryptoSphere R&D Lab,1050 Innovation Way,SQL City,Research Facility,37.7749,-122.4196
+4,Golden Gate Park,501 Stanyan St,SQL City,Park,37.7694,-122.4862
+5,The Grand Hotel,888 Broadway,SQL City,Hotel,37.7879,-122.4074
+6,Nexus Technologies HQ,500 Tech Parkway,SQL City,Office Building,37.7833,-122.4100
+7,JavaBeans Coffee Shop,123 Market St,SQL City,Cafe,37.7935,-122.3914
+8,Evergreen Capital Building,650 Financial District,SQL City,Office Building,37.7915,-122.4016
+9,City Memorial Hospital,800 Health Boulevard,SQL City,Hospital,37.7651,-122.4264
+10,Maya Davidson Residence,75 Skyline Drive,SQL City,Residence,37.7551,-122.4169
+11,Viktor Radek Residence,1200 Marina Boulevard,SQL City,Residence,37.8035,-122.4399
+12,Sarah Chen Residence,42 Sunset Avenue,SQL City,Residence,37.7459,-122.4863
+13,Marcus Taylor Residence,835 Highland Terrace,SQL City,Residence,37.7362,-122.4577
+14,Private Airstrip,9000 Ridge Road,SQL City,Airport,37.6879,-122.4702
+15,Nexus Technologies Secondary Office,510 Tech Parkway,SQL City,Office Building,37.7835,-122.4103
+20,NexusTech Research Institute,800 Science Park,SQL City,Research Facility,37.7845,-122.4235
+21,Quantum Lab,805 Science Park,SQL City,Laboratory,37.7847,-122.4237
+22,Dr. Zhang Residence,42 University Heights,SQL City,Residence,37.7921,-122.4382
+23,RivalTech Headquarters,350 Innovation Blvd,SQL City,Office Building,37.7723,-122.4215
+24,Cafe Scientifique,121 Academic Way,SQL City,Cafe,37.7856,-122.4253
+30,Geneva International Conference Center,17 Rue de Varembé,Geneva,Conference Center,46.2204,6.1396
+31,Grand Hotel Geneva,19 Quai du Mont-Blanc,Geneva,Hotel,46.2074,6.1500
+32,Ambassador Petrov Residence,45 Rue du Rhône,Geneva,Residence,46.2044,6.1517
+33,Russian Consulate,11 Rue Schaub,Geneva,Government Building,46.2109,6.1361
+34,Diplomatic Security Office,15 Rue de Lausanne,Geneva,Office Building,46.2133,6.1466
+35,Global Security Initiative HQ,30 Avenue de France,Geneva,Office Building,46.2177,6.1510
+40,Metropolitan General Hospital,1200 Medical Center Drive,SQL City,Hospital,37.7890,-122.4280
+41,Pharmaceutical Storage,Room B-112,SQL City,Secure Room,37.7891,-122.4282
+42,Dr. Chen Residence,375 Hillside Avenue,SQL City,Residence,37.7760,-122.4361
+43,Hospital Administration,1210 Medical Center Drive,SQL City,Office Building,37.7893,-122.4285
+44,BioGen Pharmaceuticals,850 Industry Way,SQL City,Office Building,37.7720,-122.4150
+50,Obsidian Gallery,500 Cultural Avenue,SQL City,Museum,37.7950,-122.4370
+51,Egyptian Wing,East Hall,SQL City,Exhibition Space,37.7951,-122.4371
+52,Isabella Fontaine Residence,28 Artisan Lane,SQL City,Residence,37.7850,-122.4330
+53,Security Control Room,Basement Level,SQL City,Secure Room,37.7952,-122.4373
+54,Cairo Museum,1 Al-Mathaf Al-Misri,Cairo,Museum,30.0478,31.2336

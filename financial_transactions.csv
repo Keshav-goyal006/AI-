@@ -1,0 +1,31 @@
+id,person_id,transaction_type,amount,date,time,location_id,recipient_id,account_number,transaction_details
+1,30,Wire Transfer,2500000.00,20230610,1425,,,CAYM182736495,Transfer to offshore account
+2,30,Cash Withdrawal,25000.00,20230612,1055,8,,CRYP78291046,Maximum daily withdrawal
+3,20,Restaurant Bill,1247.86,20230615,2243,5,,CRYP24680135,Dinner with 6 guests - QuantumLink investors
+4,40,Stock Purchase,350000.00,20230614,1010,,,CRYP13572468,Purchase of RivalTech stock options
+5,10,Real Estate Payment,4500000.00,20230603,0930,,,CRYP97531086,Final payment on diplomatic district property
+6,50,Cash Withdrawal,5000.00,20230613,1622,8,,SECU24681357,ATM withdrawal near embassy district
+7,50,Purchase,3499.99,20230614,1245,,,SECU97531086,Specialized security equipment purchase
+8,30,Wire Transfer,1000000.00,20230614,1630,,,CRYP56789012,Transfer to NexusTech Research account
+9,70,Expense Reimbursement,12456.78,20230614,0945,1,,BOAR12345678,Travel expenses for quantum research conference
+10,100,Restaurant Bill,342.56,20230615,2035,5,,EVER45678901,Dinner with Maya Davidson
+11,110,Wire Transfer,750000.00,20230612,1515,,,NTRI78945612,Transfer to diplomatic security fund
+12,20,Cryptocurrency,1500000.00,20230615,1922,,,CRYP98765432,Purchase of anonymous digital assets
+13,80,Payment,25000.00,20230614,1645,,,SECU45678901,Security consulting services - RivalTech
+14,10,Wire Transfer,3000000.00,20230615,1830,,,DIPLO12345678,Transfer to diplomatic investment fund
+15,30,Stock Sale,2750000.00,20230615,1515,,,CRYP23456789,Sale of CryptoSphere shares before merger
+16,40,Wire Transfer,500000.00,20230615,1945,,,NTRI34567890,Payment to NexusTech Research - Project Phoenix
+17,110,Cryptocurrency,1250000.00,20230614,2130,,,QUAN87654321,Anonymous quantum research funding
+18,20,Wire Transfer,1750000.00,20230615,2015,,,DIPLO98765432,Consulting fees - Chinese technology transfer
+19,50,Payment,15000.00,20230615,1855,,,SECU56789012,Special security equipment - diplomatic grade
+20,90,Wire Transfer,250000.00,20230615,1930,,,TECH45678901,Software development - Project Phoenix patch
+21,110,Research Grant,1500000.00,20231001,1422,,,QRES87654321,Quantum research funding from diplomatic source
+22,130,Wire Transfer,750000.00,20231002,0915,,,DIPLO45678901,Technology transfer payment
+23,140,Payment,250000.00,20231002,1630,,,TECH98765432,Security protocol consultation
+24,150,Cryptocurrency,2000000.00,20231002,2145,,,CRYPT12345678,Anonymous quantum research funding
+25,160,Wire Transfer,3500000.00,20231003,0830,,,INTL87654321,Classified diplomatic investment
+26,170,Payment,500000.00,20231003,1245,,,SEC34567890,Special security equipment purchase
+27,180,Wire Transfer,1250000.00,20231003,1515,,,DIPLO23456789,International security consultation
+28,190,Cryptocurrency,1750000.00,20231003,1845,,,ANON98765432,Anonymous fund transfer
+29,200,Wire Transfer,2500000.00,20231003,2015,,,TECH45678901,Technology acquisition payment
+30,110,Stock Sale,3000000.00,20231003,0945,,,CRYP34567890,Emergency liquidation of CryptoSphere shares

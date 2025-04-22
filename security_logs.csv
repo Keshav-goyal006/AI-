@@ -1,0 +1,57 @@
+id,location_id,person_id,date,time,action,details,camera_id
+1,1,10,20230615,1705,Enter,Biometric + RFID badge authentication,15
+2,1,60,20230615,1832,Exit,Biometric + RFID badge authentication,15
+3,1,30,20230615,1845,Enter,RFID badge authentication - biometric system offline for maintenance,12
+4,1,90,20230615,1955,Exit,RFID badge authentication,14
+5,1,30,20230615,2012,Exit,RFID badge authentication,12
+6,1,50,20230615,2015,Enter,RFID badge authentication - 50th floor,15
+7,1,50,20230615,2025,Exit,RFID badge authentication - 50th floor,15
+8,1,50,20230615,2026,Enter,RFID badge authentication - 45th floor,16
+9,1,50,20230615,2048,Exit,RFID badge authentication - 45th floor,16
+10,1,50,20230615,2049,Enter,RFID badge authentication - 46th floor,17
+11,1,50,20230615,2110,Exit,RFID badge authentication - 46th floor,17
+12,1,50,20230615,2111,Enter,RFID badge authentication - 47th floor,18
+13,1,50,20230615,2135,Exit,RFID badge authentication - 47th floor,18
+14,1,50,20230615,2136,Enter,RFID badge authentication - 48th floor,19
+15,1,50,20230615,2158,Exit,RFID badge authentication - 48th floor,19
+16,1,40,20230615,2147,Enter,Biometric + RFID badge authentication - Lobby,11
+17,1,40,20230615,2153,Access Attempt,Attempted to access 50th floor - Access denied (Emergency lockdown in effect),20
+18,1,50,20230615,2153,Override,Emergency override initiated on 50th floor office,15
+19,1,50,20230615,2155,Access Granted,Emergency access granted to 50th floor office,15
+20,1,40,20230615,2156,Enter,Granted access to 50th floor by security override,20
+30,21,110,20231003,1905,Enter,Biometric + RFID badge authentication,30
+31,21,130,20231003,1832,Exit,Biometric + RFID badge authentication,30
+32,21,140,20231003,1945,Remote Access,System maintenance - authorized,
+33,21,150,20231003,2100,Security Override,Maintenance protocol initiated,31
+34,21,,20231003,2245,System Error,Camera malfunction initiated,30
+35,21,,20231003,2300,System Error,Camera systems back online,30
+36,21,150,20231003,2330,Security Alert,Motion detected in secure lab during lockdown hours,32
+37,21,,20231003,1855,System Update,Quantum security protocol update initiated,30
+38,21,130,20231003,1900,Access Denied,Biometric mismatch but valid RFID,30
+39,21,110,20231003,1902,Remote Access,Multiple failed login attempts from unauthorized IP,
+40,21,140,20231003,1915,System Alert,Quantum encryption anomaly detected,31
+41,21,150,20231003,1920,Override Failed,Invalid diplomatic override code attempted,31
+42,21,,20231003,1925,System Error,Backup generators activated unexpectedly,32
+43,21,110,20231003,1930,Access Granted,Final authenticated login - quantum lab,30
+44,21,,20231003,1935,Data Transfer,Large encrypted file transfer to diplomatic server,
+45,21,130,20231003,1940,Access Granted,Secondary lab entrance - maintenance override,33
+46,21,,20231003,1945,System Alert,Multiple quantum signature anomalies detected,31
+47,21,,20231003,1950,Camera Error,"Rolling blackout in sectors 3,4,7",30
+48,21,140,20231003,2000,Remote Access,Emergency protocols initiated remotely,
+49,21,,20231003,2005,System Error,Quantum encryption failure in primary storage,31
+50,21,110,20231003,2010,Access Denied,Invalid biometric scan - high stress detected,30
+51,21,,20231003,2015,Alert,Radiation leak detected in quantum computing chamber,32
+52,21,150,20231003,2030,Security Alert,Unauthorized quantum transmission detected,31
+53,21,,20231003,2035,System Log,Multiple login attempts using Dr. Zhang's credentials from 3 locations,
+54,21,140,20231003,2040,Override,Emergency quarantine protocols activated,31
+55,35,170,20230807,900,Access Granted,Diplomatic security clearance verified,40
+56,35,160,20230807,915,Access Granted,Ambassador security protocol accepted,40
+57,35,180,20230807,920,Security Alert,Duplicate credential scan detected,41
+58,35,190,20230807,925,Access Granted,Intelligence division clearance accepted,42
+59,35,,20230807,930,System Alert,Multiple diplomatic overrides detected,43
+60,35,160,20230807,945,Access Granted,Final verified entrance before incident,44
+62,1,30,20230615,2003,Access Granted,Executive override used on Armstrong's office door - Admin code: VRTEK-00125,25
+63,1,30,20230615,2009,Elevator Usage,Executive elevator to R&D floor - facial recognition confirmed identity,25
+64,1,30,20230615,2012,Building Exit,"Verified exit using both RFID and facial recognition, exiting towards R&D building",25
+65,1,,20230615,2020,System Alert,"Emergency backup security system detected unauthorized access to Armstrong's office, video footage saved to secure server",25
+66,1,,20230615,2035,System Alert,"Executive medical monitor detected cardiac failure in Armstrong's office, automatic alert sent to security director's offline backup system",25

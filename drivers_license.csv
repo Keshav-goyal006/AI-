@@ -1,0 +1,31 @@
+id,age,height,eye_color,hair_color,gender,plate_number,car_make,car_model,car_year
+10001,52,188,blue,gray,male,CS5290,Tesla,Model X,2022
+10002,45,175,hazel,black,female,NXS718,BMW,X5,2020
+10003,38,182,brown,brown,male,QNT546,Audi,A8,2021
+10004,41,168,green,red,female,EVC999,Mercedes,S-Class,2022
+10005,47,180,brown,black,male,BLK357,Dodge,Charger,2019
+10006,35,170,brown,blonde,female,CRY123,Porsche,Cayenne,2021
+10007,52,175,blue,salt & pepper,male,TEC007,Lexus,LS,2020
+10008,29,165,blue,blonde,female,SEC808,Honda,Accord,2018
+10009,32,177,brown,brown,male,DEV404,Toyota,Prius,2020
+10010,46,183,green,brown,male,FIN555,Jaguar,F-Type,2021
+10011,38,165,brown,black,female,QNT123,Toyota,Prius,2022
+10012,45,182,blue,brown,male,RES456,Tesla,Model 3,2021
+10013,35,175,hazel,blonde,female,SCI789,Honda,Civic,2020
+10014,42,178,green,red,female,CYB012,Mazda,CX-5,2019
+10015,50,180,brown,gray,male,SEC345,Ford,Escape,2021
+10016,55,183,blue,silver,male,DIP789,Mercedes,S-Class,2022
+10017,48,175,brown,brown,female,SEC456,BMW,5 Series,2021
+10018,52,180,green,black,male,CON123,Audi,A6,2022
+10019,38,172,hazel,blonde,female,INT789,Volvo,XC60,2020
+10020,60,178,gray,white,male,DIP012,Jaguar,XF,2021
+10021,45,175,brown,black,male,DOC555,Honda,Accord,2020
+10022,38,168,blue,blonde,female,NRS789,Toyota,Camry,2019
+10023,52,182,hazel,gray,male,ADM123,Lexus,ES,2021
+10024,36,165,green,red,female,RX4567,Subaru,Outback,2018
+10025,42,178,brown,brown,male,SEC999,Ford,Explorer,2020
+10026,42,170,brown,black,female,ART777,Mini,Cooper,2021
+10027,45,185,blue,blond,male,SEC333,Jeep,Grand Cherokee,2019
+10028,55,175,brown,gray,male,COL456,BMW,3 Series,2020
+10029,38,172,green,brown,female,RES789,Audi,Q5,2022
+10030,60,178,blue,white,male,INS012,Mercedes,E-Class,2021

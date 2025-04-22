@@ -1,0 +1,15 @@
+id,person_id,location_id,timestamp,duration,activity
+1,10,1,1686858300,12600,Working in office
+2,20,5,1686862800,18000,Dinner meeting
+3,30,3,1686858300,10800,Working in lab
+4,30,11,1686869100,39600,At residence
+5,40,12,1686862800,7200,At residence
+6,40,1,1686870000,7200,Meeting at office
+7,50,1,1686855600,21600,Security patrol
+8,60,1,1686848400,19800,Working
+9,80,13,1686862800,36000,At residence
+10,90,1,1686848400,14400,Working
+11,90,7,1686862800,10800,Meeting friends
+12,100,8,1686848400,9000,Working
+13,60,8,1686858300,1800,Video call with Armstrong
+14,100,5,1686860100,14400,At executive club

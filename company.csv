@@ -1,0 +1,11 @@
+id,name,industry,founding_date,headquarters_location_id,ceo_id
+1,CryptoSphere,Technology,20150403,1,10
+2,Nexus Technologies,Technology,20100212,15,52
+3,QuantumLink,Technology,20180105,22,83
+4,Evergreen Capital,Finance,20050614,8,22
+5,Blackstone Security,Security,20120718,11,45
+10,NexusTech Research Institute,Research,20100505,20,110
+15,United Nations,Diplomatic,19451024,30,160
+16,Global Security Initiative,Security,20050612,35,180
+20,Metropolitan General Hospital,Healthcare,19850325,40,210
+25,Obsidian Gallery,Arts,20000615,50,260
